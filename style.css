@@ -283,7 +283,7 @@ a{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url(./images/im1.png);
+    background-image: url(im1.png);
     width: 360px;
     height: 260px;
 }
