@@ -305,7 +305,7 @@ a{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url(./images/im2.jpg);
+    background-image: url(/im2.jpg);
     width: 360px;
     height: 260px;
 }
@@ -315,7 +315,7 @@ a{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url(./images/im3.jpg);
+    background-image: url(im3.jpg);
     width: 360px;
     height: 260px;
 }
@@ -325,7 +325,7 @@ a{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url(./images/im4.jpg);
+    background-image: url(im4.jpg);
     width: 1140px;
     height: 180px;
     margin-top: 30px;
