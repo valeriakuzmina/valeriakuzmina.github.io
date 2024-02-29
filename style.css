@@ -25,6 +25,13 @@
     font-weight: normal;
     }
 
+@font-face {
+    font-family: "Lato-Italic";  
+    src: url("Lato-Italic.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal;
+    }    
+
 
 a{
     text-decoration: none;
