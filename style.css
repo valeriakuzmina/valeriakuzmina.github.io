@@ -450,7 +450,7 @@ a{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(./images/card1.jpg);
+    background-image: url(card1.jpg);
     background-repeat: no-repeat;
     width: 360px;
     height: 420px;
@@ -462,7 +462,7 @@ a{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(./images/card2.png);
+    background-image: url(card2.png);
     background-repeat: no-repeat;
     width: 360px;
     height: 420px;
@@ -505,7 +505,7 @@ a{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(./images/card3.png);
+    background-image: url(card3.png);
     background-repeat: no-repeat;
     width: 360px;
     height: 420px;
@@ -516,7 +516,7 @@ a{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(./images/card4.png);
+    background-image: url(card4.png);
     background-repeat: no-repeat;
     width: 360px;
     height: 420px;
@@ -527,7 +527,7 @@ a{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(./images/card5.png);
+    background-image: url(card5.png);
     background-repeat: no-repeat;
     width: 360px;
     height: 420px;
@@ -539,7 +539,7 @@ a{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(./images/card6.png);
+    background-image: url(card6.png);
     background-repeat: no-repeat;
     width: 360px;
     height: 420px;
